@@ -40,3 +40,7 @@ Y
 )src/main/java/org/example/whoLikesIt.java,5/5/55a09ff5105f5a40021509282538f4a7a2c6dc17
 ]
 -src/test/java/org/example/whoLikesItTest.java,6/e/6e7ab94a530f9a43068d8677cf3e630e58d1e8fe
+V
+&src/main/java/org/example/ProdFib.java,a/0/a05aeaf8b952cb5e2a11cfca4703a6292f9ac89b
+Z
+*src/test/java/org/example/ProdFibTest.java,e/6/e6a592c07a2cef862341b61836f25046377296b2
