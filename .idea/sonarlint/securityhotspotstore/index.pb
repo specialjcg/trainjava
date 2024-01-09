@@ -36,3 +36,7 @@ X
 (src/main/java/org/example/NumberFun.java,1/6/1670338abdf4cc30e700e63d813f920f22881066
 \
 ,src/test/java/org/example/NumberFunTest.java,6/f/6f77f0a82c3571e515f694cde6dab3c25447f8c9
+Y
+)src/main/java/org/example/whoLikesIt.java,5/5/55a09ff5105f5a40021509282538f4a7a2c6dc17
+]
+-src/test/java/org/example/whoLikesItTest.java,6/e/6e7ab94a530f9a43068d8677cf3e630e58d1e8fe
