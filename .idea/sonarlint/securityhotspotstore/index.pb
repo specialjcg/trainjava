@@ -32,3 +32,7 @@ Z
 *src/main/java/org/example/validatePin.java,5/6/5680a415f32a92d9a89e48ad9e782111eec226e9
 ^
 .src/test/java/org/example/validatePinTest.java,0/4/04a273a6e06697ff92c2f07873b1fdbd35fe76ec
+X
+(src/main/java/org/example/NumberFun.java,1/6/1670338abdf4cc30e700e63d813f920f22881066
+\
+,src/test/java/org/example/NumberFunTest.java,6/f/6f77f0a82c3571e515f694cde6dab3c25447f8c9
