@@ -1,8 +1,6 @@
 package org.example;
 
 import java.util.List;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 public class SmileFaces {
     public static int countSmileys(List<String>  simleys) {
