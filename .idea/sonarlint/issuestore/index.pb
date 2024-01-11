@@ -60,3 +60,11 @@ a
 1src/main/java/org/example/RemoveDuplicateIds.java,1/e/1e96aca149336e734a4d7472f66fecbb94347c45
 e
 5src/test/java/org/example/RemoveDuplicateIdsTest.java,7/6/76455f5058099499acdce8e4e412ae22b46642d4
+a
+1src/main/java/org/example/CountingDuplicates.java,2/4/24c8feeb7d1fa6a462bbc09a20bb929148e615ac
+e
+5src/test/java/org/example/CountingDuplicatesTest.java,7/2/720b7471e638a7a37822a45fe386ca1136134046
+`
+0src/main/java/org/example/FindMissingLetter.java,5/9/59a95e33c3997995b56cc80e1ab238503021fddf
+d
+4src/test/java/org/example/FindMissingLetterTest.java,e/8/e85e91f611da2214766461ec5b2173ebc64aa0ba
