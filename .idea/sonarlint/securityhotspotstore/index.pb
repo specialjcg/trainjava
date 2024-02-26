@@ -104,3 +104,17 @@ c
 3src/main/java/org/example/FootballMatchReports.java,7/1/7140ddb9a61e8f66f62168a939d1945720c3a8ed
 g
 7src/test/java/org/example/FootballMatchReportsTest.java,2/6/26c1bf7d665e17ca3c287ebf078112151e589cc3
+[
++src/main/java/org/example/NeedForSpeed.java,e/4/e484c663f8930a1e88ff2f78d60b13c7b15b467b
+_
+/src/test/java/org/example/NeedForSpeedTest.java,6/3/63294cb99d3ad7cf367b0429d1eff7fe7c1fc77d
+U
+%src/main/java/org/example/Archer.java,c/8/c82a0f517f7eef8bf1a86f3adb01cf13b25b9f1a
+Y
+)src/test/java/org/example/ArcherTest.java,2/1/2169f8276118cf04ba239f4de481dc13b9496a40
+U
+%src/main/java/org/example/Player.java,d/b/db455f11f40504110fb1ef2567ff0b7b6044c09c
+Y
+)src/test/java/org/example/PlayerTest.java,8/5/85a14887c1d4d77c17819593997b05057ba7b43c
+U
+%src/test/java/org/example/Mystic.java,5/7/57de6ee2dfe379f7349d720056e52ac938453481
