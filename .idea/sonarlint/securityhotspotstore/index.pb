@@ -124,3 +124,9 @@ o
 ?src/test/java/org/example/ExperimentalRemoteControlCarTest.java,4/5/455d3a60d7baacfbfacbc6152cf4ebcccf6ba6c4
 i
 9src/main/java/org/example/ProductionRemoteControlCar.java,1/6/16edbb70b27030c0baef571f2c2d36eef41a2026
+W
+'src/main/java/org/example/LogLevel.java,1/1/11b3a3653a2b4f69fab7e03540da802860188005
+V
+&src/main/java/org/example/LogLine.java,c/1/c194ead7c9cdc1333fc0fab810c65f8387800cc1
+Z
+*src/test/java/org/example/LogLineTest.java,9/f/9fa061efc3b98bf45f337594f9e043e978d62074
