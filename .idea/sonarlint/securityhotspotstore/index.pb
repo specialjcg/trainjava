@@ -146,3 +146,15 @@ Z
 +src/main/java/org/example/TravelMethod.java,c/0/c05a39e90e2a713d3866e3e1a3622b6fe0f1a5df
 ]
 -src/test/java/org/example/GameMasterTest.java,5/5/557eeba4b4c08627752eb410fb61eeacd425f91f
+S
+#src/main/java/org/example/Leap.java,6/a/6a7f8c5f242dfa5e09f4b92793817f954f54185a
+W
+'src/test/java/org/example/LeapTest.java,4/b/4b64f9a54874ac884282abc20deb0f8f8c447f5d
+_
+/src/main/java/org/example/ArmstrongNumbers.java,3/2/32f4a78b46ce3a2268f26f37aff61ac8e1904f49
+c
+3src/test/java/org/example/ArmstrongNumbersTest.java,4/7/47fea1f2a3d80e4ddf7172081f08349ad9c50122
+Y
+)src/main/java/org/example/HighScores.java,a/c/ac4d16fba097b94550fe130df5f878c3ddbbb802
+]
+-src/test/java/org/example/HighScoresTest.java,f/2/f2d67d876fce77c13e2e425422c18ade156832d1
