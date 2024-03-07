@@ -2,10 +2,10 @@ package org.example;
 
 public class ResistorColorTrio {
     public String label(String[] colors) {
-        int mainValue = getColorValue(colors[0], colors[1]);
-        int zeros = getZeros(colors[2]);
-        String unit = getUnit(mainValue, zeros);
-        return mainValue + " " + unit;
+        long mainValue = getColorValue(colors[0], colors[1]);
+        long zeros = getZeros(colors[2]);
+        String unit = getUnit(mainValue*zeros);
+        return  unit;
     }
 
     private int getColorValue(String color1, String color2) {
@@ -48,15 +48,17 @@ public class ResistorColorTrio {
         return zeros;
     }
 
-    private String getUnit(int mainValue, int zeros) {
-        if (mainValue >= 1000) {
-            return "kiloohms";
-        } else if (mainValue >= 1000000) {
-            return "megaohms";
-        } else if (mainValue >= 1000000000) {
-            return "gigaohms";
+    private String getUnit(long mainValue) {
+        String unit = "";
+        if (mainValue < 1000) {
+            unit = mainValue+" ohms";
+        } else if (mainValue < 1000000) {
+            unit= String.valueOf(mainValue/1000)+ " kiloohms";
+        } else if (mainValue < 1000000000) {
+            unit= mainValue/1000000+" megaohms";
         } else {
-            return "ohms";
+            unit= mainValue/1000000000+" gigaohms";
         }
+        return unit;
     }
 }
