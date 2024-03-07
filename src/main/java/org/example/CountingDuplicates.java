@@ -22,8 +22,8 @@ public class CountingDuplicates {
             return 0;
         }
 
-        Set<Character> seenCharacters = new HashSet<>();
-        Set<Character> duplicateCharacters = new HashSet<>();
+        Set<java.lang.Character> seenCharacters = new HashSet<>();
+        Set<java.lang.Character> duplicateCharacters = new HashSet<>();
         input = input.toLowerCase(); // Convert to lowercase for case-insensitivity
 
         for (char c : input.toCharArray()) {

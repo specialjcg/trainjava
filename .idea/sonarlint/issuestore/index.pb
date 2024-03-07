@@ -158,3 +158,11 @@ Y
 )src/main/java/org/example/HighScores.java,a/c/ac4d16fba097b94550fe130df5f878c3ddbbb802
 ]
 -src/test/java/org/example/HighScoresTest.java,f/2/f2d67d876fce77c13e2e425422c18ade156832d1
+_
+/src/main/java/org/example/ResistorColorDuo.java,c/f/cfd15862b23cc728ffd9d41356fd4baba2bdf5a3
+c
+3src/test/java/org/example/ResistorColorDuoTest.java,2/9/29eb55c0be2fb78232687f7d48f2609aab465e44
+`
+0src/main/java/org/example/ResistorColorTrio.java,4/3/437a94c7363b8fad572f926f8e9f11418806b704
+d
+4src/test/java/org/example/ResistorColorTrioTest.java,9/7/97b62a62ae7c3bb7b99f14c53b13def3268dc005
