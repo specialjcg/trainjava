@@ -166,3 +166,7 @@ c
 0src/main/java/org/example/ResistorColorTrio.java,4/3/437a94c7363b8fad572f926f8e9f11418806b704
 d
 4src/test/java/org/example/ResistorColorTrioTest.java,9/7/97b62a62ae7c3bb7b99f14c53b13def3268dc005
+_
+/src/main/java/org/example/RnaTranscription.java,f/3/f3550eeb22805a1ecaf753ae0ffe95d3bd0796ea
+c
+3src/test/java/org/example/RnaTranscriptionTest.java,3/5/35778f586165b7c446a50449a6f36ba73b0f6ea3
