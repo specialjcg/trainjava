@@ -170,3 +170,7 @@ _
 /src/main/java/org/example/RnaTranscription.java,f/3/f3550eeb22805a1ecaf753ae0ffe95d3bd0796ea
 c
 3src/test/java/org/example/RnaTranscriptionTest.java,3/5/35778f586165b7c446a50449a6f36ba73b0f6ea3
+V
+&src/main/java/org/example/Acronym.java,5/8/58478a562c4868bc9d375bec1d7731b5a1de5c9f
+Z
+*src/test/java/org/example/AcronymTest.java,3/5/35156482d102aee5a04ac07c3bae7d4a957e7674
