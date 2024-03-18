@@ -178,3 +178,7 @@ X
 (src/main/java/org/example/MicroBlog.java,4/3/439f5df5e0532ab92bfd8a2285211603327e3a03
 \
 ,src/test/java/org/example/MicroBlogTest.java,4/5/45097e15bebc4eaa3bfc5c2a16411ff7c883db82
+]
+-src/main/java/org/example/PangramChecker.java,3/b/3bd5c3f5cabd7ab480f77504b2bae06630f5deb2
+a
+1src/test/java/org/example/PangramCheckerTest.java,8/b/8bbe54cbbf990ba07388316e536895d0c581de7c
