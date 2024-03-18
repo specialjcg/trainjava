@@ -182,3 +182,7 @@ X
 -src/main/java/org/example/PangramChecker.java,3/b/3bd5c3f5cabd7ab480f77504b2bae06630f5deb2
 a
 1src/test/java/org/example/PangramCheckerTest.java,8/b/8bbe54cbbf990ba07388316e536895d0c581de7c
+\
+,src/main/java/org/example/NaturalNumber.java,b/8/b8eeb2eb61c2df88931a2a923a1a33703a9a8636
+`
+0src/test/java/org/example/NaturalNumberTest.java,3/9/39ce2fca7bcb29be3e3b2bf021ca46cb0fdb2d56
