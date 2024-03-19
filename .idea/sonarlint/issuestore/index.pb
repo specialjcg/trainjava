@@ -186,3 +186,7 @@ a
 ,src/main/java/org/example/NaturalNumber.java,b/8/b8eeb2eb61c2df88931a2a923a1a33703a9a8636
 `
 0src/test/java/org/example/NaturalNumberTest.java,3/9/39ce2fca7bcb29be3e3b2bf021ca46cb0fdb2d56
+Y
+)src/main/java/org/example/EliudsEggs.java,1/2/1201a48fea096e923fef3f3393f6dce15dfb3245
+]
+-src/test/java/org/example/EliudsEggsTest.java,8/d/8da27a15344ab396f76327c9ec3ff82183342b3f
