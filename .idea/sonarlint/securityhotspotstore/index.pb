@@ -198,3 +198,11 @@ W
 'src/main/java/org/example/SpaceAge.java,8/e/8e059f078b63aece3d9adc64b8fdf3ce51d73264
 [
 +src/test/java/org/example/SpaceAgeTest.java,f/6/f606ad5a361324cd96dab0ac700e8b264e7cfde6
+`
+0src/main/java/org/example/CollatzCalculator.java,2/c/2c9fd38caeced81251e573a8fe1f254d5194b60e
+d
+4src/test/java/org/example/CollatzCalculatorTest.java,1/0/1009d345add9263fa248303fdb6ca17f99844ac1
+a
+1src/main/java/org/example/KillerSudokuHelper.java,2/4/241b4d6f3fe916fca16e62e91e7ade694f1a95ea
+e
+5src/test/java/org/example/KillerSudokuHelperTest.java,5/5/55eb6faae9ae7967e9980e41092d31424b91fd35
