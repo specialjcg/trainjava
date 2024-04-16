@@ -206,3 +206,7 @@ a
 1src/main/java/org/example/KillerSudokuHelper.java,2/4/241b4d6f3fe916fca16e62e91e7ade694f1a95ea
 e
 5src/test/java/org/example/KillerSudokuHelperTest.java,5/5/55eb6faae9ae7967e9980e41092d31424b91fd35
+_
+/src/main/java/org/example/GottaSnatchEmAll.java,1/7/17ee3764e1f4ec4862dddfc84efea3d50a9440e6
+c
+3src/test/java/org/example/GottaSnatchEmAllTest.java,5/a/5a129d55bec33963a361e33933f096887dd0bc7d
