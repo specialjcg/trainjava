@@ -214,3 +214,9 @@ c
 -src/main/java/org/example/SumOfMultiples.java,4/c/4c8295fd6c1a04db2ca9d4f820d37e8cc84c1e5b
 a
 1src/test/java/org/example/SumOfMultiplesTest.java,4/7/472a07672c63ee71362eb1085b1d6f88429b4417
+a
+1src/main/java/org/example/KindergartenGarden.java,e/1/e1ff1c411202117d8d84acc3ffef746c992599cd
+T
+$src/main/java/org/example/Plant.java,7/a/7aa85f2cacc3646978656bb5d4a9c76cb8672dce
+e
+5src/test/java/org/example/KindergartenGardenTest.java,3/c/3cb243064ca16d89c106bb22bf988cef0c795188
