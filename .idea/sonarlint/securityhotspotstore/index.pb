@@ -210,3 +210,7 @@ _
 /src/main/java/org/example/GottaSnatchEmAll.java,1/7/17ee3764e1f4ec4862dddfc84efea3d50a9440e6
 c
 3src/test/java/org/example/GottaSnatchEmAllTest.java,5/a/5a129d55bec33963a361e33933f096887dd0bc7d
+]
+-src/main/java/org/example/SumOfMultiples.java,4/c/4c8295fd6c1a04db2ca9d4f820d37e8cc84c1e5b
+a
+1src/test/java/org/example/SumOfMultiplesTest.java,4/7/472a07672c63ee71362eb1085b1d6f88429b4417
